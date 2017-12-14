@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Minikube
 
 [![BuildStatus Widget]][BuildStatus Result]
@@ -177,3 +178,6 @@ For more information about minikube, see the [proposal](https://github.com/kuber
 * [**#minikube on Kubernetes Slack**](https://kubernetes.slack.com)
 * [**kubernetes-dev mailing list** ](https://groups.google.com/forum/#!forum/kubernetes-dev)
 (If you are posting to the list please prefix your subject with "minikube: ")
+=======
+# jenkins-test
+>>>>>>> jenkins-test/master
